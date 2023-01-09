@@ -1,0 +1,53 @@
+.kotak1{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    transition-duration: 10s;
+    transition-timing-function: ease;
+    transform: translateX(500px) rotate(360deg);
+}
+
+.kotak2{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    transition-duration: 10s;
+    transition-timing-function: linear;
+    transform: translateX(500px) rotate(360deg);
+}
+
+.kotak3{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    transition-duration: 10s;
+    transition-timing-function: ease-in;
+    transform: translateX(500px) rotate(360deg);
+}
+
+.kotak4{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    transition-duration: 10s;
+    transition-timing-function: ease-out;
+    transform: translateX(500px) rotate(360deg);
+}
+
+.kotak5{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    transition-duration: 10s;
+    transition-timing-function: ease-in-out;
+    transform: translateX(500px) rotate(360deg);
+}
+
+.kotak6{
+    width: 200px;
+    height: 200px;
+    background-color: cadetblue;
+    transition-duration: 10s;
+    transition-timing-function: cubic-bezier(0.23, 1, 0.320, 1);
+    transform: translateX(500px) rotate(360deg);
+}
